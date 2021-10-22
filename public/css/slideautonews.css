@@ -1,0 +1,181 @@
+#select-3-button{
+  width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+#container {
+  width: 100%;
+  margin: auto !important;
+  display: block;
+  /* height: 800px; */
+  /* position: relative; */
+  list-style-type: none;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+.buddy {
+  display: none;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+  color: #fff;
+  width: 97.2%;
+  padding-bottom: 50px;
+  margin-bottom: 15px;
+  /* top: 50px; */
+  /* left: 50px; */
+  position: absolute;
+  /* padding-bottom: 40px; */
+}
+.buddy .title{
+  color: black;
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  display: block;
+  margin-top: 5px !important;
+  margin-bottom: 30px;
+}
+.buddy .left{
+  display: inline-block;
+  color: black;
+  width: 340px;
+  vertical-align: top;
+  padding-right: 20px;
+}
+.buddy .right span{
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.buddy .right{
+  display: inline-block;
+  color:black;
+  width: 430px;
+  position: relative;
+  top: 30px;
+}
+.buddy .right .title{
+  text-align: left;
+  font: normal normal bold 20px/24px Raleway;
+  letter-spacing: 0px;
+  opacity: 1;
+}
+.buddy .right .summary{
+  font: normal normal normal 16px/19px Karla;
+  letter-spacing: 0px;
+  color: #2900EE;
+  opacity: 1;
+  text-align: justify;
+}
+.buddy .right .contenido{
+  font: normal normal normal 16px/19px Karla;
+  letter-spacing: 0px;
+  color: #2900EE;
+  opacity: 1;
+  text-align: justify;
+  height: 160px;
+  overflow: scroll;
+}
+.buddy .right .buttons{
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 10px;
+}
+.buddy .right .buttons .cancel-button{
+  padding-right: 30px;
+  cursor: pointer;
+}
+.buddy .right .buttons .ok-button{
+  padding-right: 15px;
+  cursor: pointer;
+}
+.buddy .right .coincidencias-line{
+  border: 0.4000000059604645px solid #9D9D9D;
+  opacity: 1;
+}
+.buddy .right .coincidencias_container{
+  text-align: left;
+  font: italic normal normal 16px/25px Raleway;
+  letter-spacing: 0.48px;
+  color: #000000;
+  opacity: 1;
+}
+.buddy .summary{
+  color: black;
+  font-weight: 600;
+  font-size: 15px;
+  text-align: center;
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.rotate-left {
+  transform: rotate(30deg) scale(0.8);
+  transition: 1s;
+  margin-left: 400px;
+  cursor: e-resize;
+  opacity: 0;
+  z-index: 10;
+}
+.rotate-right {
+  transform: rotate(-30deg) scale(0.8);
+  transition: 1s;
+  opacity: 0;
+  margin-left: -400px;
+  cursor: w-resize;
+  z-index: 10;
+}
+.avatar {
+  background: #EDEDED;
+  width: 220px;
+  height: 220px;
+  display: block;
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+  border-radius: 10px;
+  position: relative;
+  top: 40px;
+  left: 40px;
+}
+.like {
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: 2px solid green;
+  color: green;
+  text-transform: uppercase;
+  font-size: 15px;
+  position: absolute;
+  top: 50px;
+  right: 40px;
+  text-shadow: none;
+}
+.dislike {
+  border-radius: 5px;
+  padding: 5px 10px;
+  border: 2px solid red;
+  color: red;
+  text-transform: uppercase;
+  font-size: 15px;
+  position: absolute;
+  top: 50px;
+  left: 40px;
+  text-shadow: none;
+}
+
+
+.hr 
+{
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+}

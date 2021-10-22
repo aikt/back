@@ -1,0 +1,53 @@
+.login-page, .register-page{
+  background: #2A2B9F 0% 0% no-repeat padding-box;
+}
+.logo-login{
+  width: 188px;
+  height: 61px;
+  background: transparent url('/images/logo.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  margin: 0 auto;
+  display: block;
+}
+.text-editor{
+  font: 14px/21px 'Heebo-Bold';
+  letter-spacing: 1.4px;
+  color: #3B3B3B;
+  opacity: 1;
+  display: block;
+  margin-top:50px;
+}
+.login-box-body{
+  background: none;
+}
+.form-control-copo{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 20px #6E6E6E21;
+  border-radius: 30px;
+  opacity: 1 !important;
+  width: 100%;
+  text-align: left;
+  font: 11px/17px "Heebo-ExtraBold" !important;
+  color: #000000;
+  padding-left: 20px;
+  border: none;
+  height: 45px;
+}
+.remember_me_copo{
+  font: 11px/17px "Heebo";
+  letter-spacing: 0.88px;
+  color: white;
+  opacity: 1;
+  margin-left: 10px;
+}
+.btn-submit-copo{
+  background: #FF006F 0% 0% no-repeat padding-box;
+  border-radius: 30px !important;
+  opacity: 1;
+  font: 11px/17px "Heebo-Bold";
+  letter-spacing: 0.88px;
+  color: #FFFFFF;
+}
+.btn-submit-copo:hover{
+  background: #3B3B3B 0% 0% no-repeat padding-box !important;
+}

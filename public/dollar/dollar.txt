@@ -1,0 +1,95 @@
+<TITLE>Así amaneció este lunes 27 de septiembre del 2021 el precio del dólar y tipo de cambio</TITLE>
+<SUMMARY></SUMMARY>
+<CONTENT><p>El tipo de cambio interbancario del dólar amanece en 20.07 pesos, lo que representa un alza en 0.14% respecto al peso mexicano, con un incremento de 0.03 pesos</p><p>Los valores del dólar por peso se encuentran a la compra en $19.85, mientras a la venta en $20.30 pesos.</p><p>Durante la semana el dólar ha registrado una alza de 0.14% frente al peso, la moneda americana se mantiene a la compra entre los 19.63 y 20.31 pesos a la compra y entre los 20.07 y 20.75 pesos a la venta.</p>Desde el máximo que registró en septiembre del año pasado a la fecha, el dólar recuperó 1.07%%, es decir 0.21 pesos<p>Si se considera el precio del dólar desde cuanto toma posesión AMLO el 01 de diciembre del 2018 a la presidencia de México, se presenta a la alza con  0.02 pesos y un porcentaje favorable de 0.09%.</p><p>El dólar es una de las monedas más importantes pues es considerada universal incursionando en casi todas las economías del planeta.</p><style type=\"text/css\">
+  /*! CSS Used from: Embedded */
+::-moz-focus-inner{border:0;}
+.small-show{display:inline;}
+.small-hide{display:none;}
+@media (min-width:468px){
+.small-show{display:none;}
+.small-hide{display:inline;}
+}
+a{overflow:hidden;}
+table{border-collapse:collapse;text-align:start;}
+table a::after{padding-right:13px;content:\"\";background-position:100% 0;background-repeat:no-repeat;background-image:url(data:image/svg+xml,<svg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2210%22%20height=%2210%22><rect%20stroke=%22%231f4807%22%20fill=%22%23fff%22%20y=%223.52%22%20x=%220.5%22%20height=%225.98%22%20width=%225.98%22/><path%20fill=%22%233a6e1b%22%20d=%22m4.76%200h5.23v5.39l-1.57%201.54%20-1.31-1.31%20-2.72%202.73%20-2.69-2.69%202.81-2.81%20-1.31-1.31%201.56-1.54%200%200zM8.99%201%22/><path%20fill=%22%23fff%22%20d=%22m8.99%201l0.02%204.89%20-1.82-1.82%20-2.88%202.88%20-1.23-1.23%202.88-2.88%20-1.85-1.85%204.87%200.01%200%200z%22/></svg>);}
+td[colspan]{text-align:center;}
+td a{color:#1f4807;display:block;margin-left:.777ex;text-decoration:none;}
+td a:hover span{color:#1f4807;text-decoration:underline;}
+caption{margin:1em 0 0;font-size:small;caption-side:bottom;}
+#dllsTable{margin:auto;max-width:718px;}
+#dllsTable th{border-bottom:2px solid #777;padding:0 0 .777ex;line-height:1.13em;}
+#dllsTable th:first-child{padding-left:1ex;text-align:left;}
+#dllsTable td{border-bottom:1px solid #e0e0e0;padding:.8777ex 0 .777ex;}
+#dllsTable td:nth-child(1){padding-right:1ex;}
+#dllsTable tbody{line-height:1.555em;}
+#dllsTable tbody tr{transition:background-color .21s ease;}
+#dllsTable tfoot{line-height:2em;}
+#dllsTable tbody tr:nth-child(2n+1):hover,#dllsTable tbody tr:hover{background-color:#e3f2fd;}
+#dllsTable td.num,#dllsTable td:nth-child(n+2){font-family:monospace;font-size:107%;padding-left:1ex;letter-spacing:0;}
+td a span{vertical-align:middle;}
+td .sp{margin:0 1ex 0 0;}
+tbody div{margin-top:.3em;display:inline-block;vertical-align:middle;}
+#dllsTable tbody tr:last-child td,#dllsTable tfoot td{border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#777;}
+#dllsTable tr>:nth-child(2),#dllsTable tr>:nth-child(3){display:none;}
+.sort::after,.sort-a::after{color:#00f;font-family:monospace;margin:0 .5ex;font-size:x-large;}
+.sort:hover::after,.sort-a:hover::after{color:#add8e6;}
+.sort:hover,.sort-a:hover{cursor:pointer;}
+.sort::after{content:\"►\";}
+.sort-a::after{content:\"▲\";}
+.best{background-color:#e5ffd6;}
+.sp{background-repeat:no-repeat;display:inline-block;}
+.sp.va.i0{width:80px;height:13px;background-position:0 -0px;}
+.sp.va.i1{width:80px;height:11px;background-position:0 -14px;}
+.sp.va.i2{width:80px;height:21px;background-position:0 -26px;}
+.sp.va.i3{width:80px;height:12px;background-position:0 -48px;}
+.sp.va.i4{width:80px;height:12px;background-position:0 -61px;}
+.sp.va.i5{width:80px;height:12px;background-position:0 -74px;}
+.sp.va.i6{width:80px;height:12px;background-position:0 -87px;}
+.sp.va.i7{width:80px;height:12px;background-position:0 -100px;}
+.sp.va.i8{width:80px;height:12px;background-position:0 -113px;}
+.sp.va.i9{width:80px;height:12px;background-position:0 -126px;}
+.sp.va.i10{width:80px;height:9px;background-position:0 -139px;}
+.sp.va.i11{width:80px;height:21px;background-position:0 -149px;}
+.sp.va.i12{width:80px;height:18px;background-position:0 -171px;}
+.sp.va.i13{width:80px;height:16px;background-position:0 -190px;}
+.sp.va.i14{width:80px;height:21px;background-position:0 -207px;}
+.sp.va.i15{width:80px;height:15px;background-position:0 -229px;}
+.sp.va.i16{width:80px;height:19px;background-position:0 -245px;}
+.sp.va.i17{width:80px;height:20px;background-position:0 -265px;}
+.sp.va.i18{width:80px;height:21px;background-position:0 -286px;}
+.sp.va.i19{width:80px;height:15px;background-position:0 -308px;}
+.sp.va{background-image:url(https://www.eldolar.info/sprites/!afirme/bancoazteca/bancobase/banxico-fix/banxico-int/banxico-int-open/banxico-int-close/banxico-int-max/banxico-int-min/banorte/bancomer/cibanco/banamex/dof/ixe/monex/mexico/reuters/sat/vepormas?o765ei);}
+</style>
+<h2>Precio del dólar en México cómo evolucionó en los últimos días:</h2>
+<!-- TradingView Widget BEGIN -->
+<div class=\"tradingview-widget-container\">
+  <div id=\"tradingview_337e1\"></div>
+  <div class=\"tradingview-widget-copyright\"><a href=\"https://es.tradingview.com/symbols/USDMXN/?exchange=FX\" rel=\"noopener\" target=\"_blank\"><span class=\"blue-text\">USDMXN Gráfico</span></a> por TradingView</div>
+  <script type=\"text/javascript\" src=\"https://s3.tradingview.com/tv.js\"></script>
+  <script type=\"text/javascript\">
+  new TradingView.widget(
+  {
+  \"width\": 600,
+  \"height\": 600,
+  \"symbol\": \"FX:USDMXN\",
+  \"interval\": \"15\",
+  \"timezone\": \"America/El_Salvador\",
+  \"theme\": \"light\",
+  \"style\": \"0\",
+  \"locale\": \"es\",
+  \"toolbar_bg\": \"#f1f3f6\",
+  \"enable_publishing\": false,
+  \"hide_top_toolbar\": true,
+  \"save_image\": false,
+  \"container_id\": \"tradingview_337e1\"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+<table id=dllsTable><caption> Comparison table of one Dollar exchange rate to Mexican Pesos published today by banks and the Mexican government entities. </caption><thead><tr><th class=sort-a>Entity</th><th class=sort>Dollars</th><th class=sort>Pesos</th><th class=sort>Buy</th><th class=sort>Sell</th></tr></thead><tbody><tr><td><a href=\'//www.afirme.com/\'><span class=\"sp va i0\" title=Afirme></span><span class=small-hide>Afirme</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.20</td><td class=xTimes>20.70</td></tr><tr><td><a href=\'//www.casadebolsabase.com/es\'><span class=\"sp va i1\" title=\'Banco BASE\'></span><span class=small-hide>Banco BASE</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.16</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/llenarTiposCambioAction.do?idioma=sp\'><span class=\"sp va i2\" title=\'Banco de México, FIX\'></span><span class=small-hide>Banco de México, FIX</span><span class=small-show>FIX</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.1052</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/llenarTiposCambioAction.do?idioma=sp\'><span class=\"sp va i3\" title=\'Banco de México, Interbancario 48 hrs\'></span><span class=small-hide>Banco de México, Interbancario 48 hrs</span><span class=small-show>Interbancario</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.115</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/intMasInfAction.do\'><span class=\"sp va i4\" title=\'Banco de México, Interbancario 48 hrs apertura\'></span><span class=small-hide>Banco de México, Interbancario 48 hrs apertura</span><span class=small-show>Apertura</span></a></td><td><div></div></td><td><div></div></td><td class=\"xTimes best\" title=\"Best buy\">20.12</td><td class=xTimes>20.127</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/intMasInfAction.do\'><span class=\"sp va i5\" title=\'Banco de México, Interbancario 48 hrs cierre\'></span><span class=small-hide>Banco de México, Interbancario 48 hrs cierre</span><span class=small-show>Cierre</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>20.108</td><td class=\"xTimes best\" title=\"Best sell\">20.115</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/intMasInfAction.do\'><span class=\"sp va i6\" title=\'Banco de México, Interbancario 48 hrs máximo\'></span><span class=small-hide>Banco de México, Interbancario 48 hrs máximo</span><span class=small-show>Máximo</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.136</td></tr><tr><td><a href=\'//www.banxico.org.mx/tipcamb/intMasInfAction.do\'><span class=\"sp va i7\" title=\'Banco de México, Interbancario 48 hrs mínimo\'></span><span class=small-hide>Banco de México, Interbancario 48 hrs mínimo</span><span class=small-show>Mínimo</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.097</td></tr><tr><td><a href=\'//www.banorte.com/wps/portal/ixe/Home/indicadores/tipo-de-cambio\'><span class=\"sp va i8\" title=Banorte></span><span class=small-hide>Banorte</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.00</td><td class=xTimes>20.40</td></tr><tr><td><a href=\'//www.bbva.mx/personas/informacion-financiera-al-dia.html\'><span class=\"sp va i9\" title=\'BBVA Bancomer\'></span><span class=small-hide>BBVA Bancomer</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.45</td><td class=xTimes>20.34</td></tr><tr><td><a href=\'http://www.cibanco.com/\'><span class=\"sp va i10\" title=CIBanco></span><span class=small-hide>CIBanco</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.22</td></tr><tr><td><a href=\'http://www.banamex.com/economia_finanzas/es/divisas_metales/resumen.htm\'><span class=\"sp va i11\" title=Citibanamex></span><span class=small-hide>Citibanamex</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.45</td><td class=xTimes>20.63</td></tr><tr><td><a href=\'http://www.dof.gob.mx/\'><span class=\"sp va i12\" title=\'DOF, Diario Oficial de la Federación\'></span><span class=small-hide>DOF, Diario Oficial de la Federación</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.1118</td></tr><tr><td><a href=\'//www.intercam.com.mx/\'><span class=\"sp va i13\" title=Intercam></span><span class=small-hide>Intercam</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.5784</td><td class=xTimes>20.5989</td></tr><tr><td><a href=\'http://www.monex.com.mx/\'><span class=\"sp va i14\" title=Monex></span><span class=small-hide>Monex</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.72</td><td class=xTimes>20.72</td></tr><tr><td><a href=\'http://www.banxico.org.mx/tipcamb/tipCamMIAction.do?idioma=sp\'><span class=\"sp va i15\" title=\'Para pagos de obligaciones\'></span><span class=small-hide>Para pagos de obligaciones</span><span class=small-show>Para pagos</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.028</td></tr><tr><td><a href=\'//www.reuters.com/quote/USDMXN\'><span class=\"sp va i16\" title=Reuters></span><span class=small-hide>Reuters</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.10</td></tr><tr><td><a href=\'http://www.sat.gob.mx/informacion_fiscal/tablas_indicadores/Paginas/tipo_cambio.aspx\'><span class=\"sp va i17\" title=\'SAT, Servicio de Administración Tributaria\'></span><span class=small-hide>SAT, Servicio de Administración Tributaria</span></a></td><td><div></div></td><td><div></div></td><td colspan=2 class=xTimes>20.1118</td></tr><tr><td><a href=\'//www.vepormas.com/\'><span class=\"sp va i18\" title=\'Ve por mas\'></span><span class=small-hide>Ve por mas</span></a></td><td><div></div></td><td><div></div></td><td class=xTimes>19.3178</td><td class=xTimes>20.8428</td></tr></tbody><tfoot><tr><td rowspan=2 class=num title=\"Number of records\">n = 19</td><td></td><td></td><td class=xTimes>19.8489</td><td class=xTimes>20.2978</td></tr><tr><td class=\'num xTimes\' colspan=2>20.0734</td></tr></tfoot></table><caption>Tabla proporcionada por ElDolar.info</caption></CONTENT>
+<IMAGE>https://copoadminpro.s3.us-east-2.amazonaws.com/img/covid/806727771.jpg</IMAGE>
+<SEOTITLE>Así amaneció este lunes 27 de septiembre del 2021 el precio del dólar y tipo de cambio</SEOTITLE>
+<SEODESCRIPTION></SEODESCRIPTION>
+<FECHA>27-09-2021 14:48:02</FECHA>
+<AUTOR>CodigoPostal</AUTOR>
